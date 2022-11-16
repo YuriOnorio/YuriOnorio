@@ -9,7 +9,7 @@ I'm 17 years old and I love programming, and I'm looking to dedicate myself more
 <div align="center">
   <a href="https://github.com/YuriOnorio>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YuriOnorio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriOnorio&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedroBispo&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
  <br> 
