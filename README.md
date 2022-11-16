@@ -1,7 +1,7 @@
-## Hi! my name is  Yuri Onório 🖐🏼
+## Hi! my name is  Yuri Onório 
 
 I'm 17 years old and I love programming, and I'm looking to dedicate myself more and more to this area
-- 💻 Junior Web Developer
+
 
 
 <br>
