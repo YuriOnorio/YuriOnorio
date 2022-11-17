@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=42ebf7ef&height=150&section=header"/>
+
 ## Hi! my name is  Yuri Onório 
 
 I'm 17 years old and I love programming, and I'm looking to dedicate myself more and more to this area
@@ -67,3 +69,5 @@ I'm 17 years old and I love programming, and I'm looking to dedicate myself more
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=42ebf7ef&height=120&section=footer"/>
